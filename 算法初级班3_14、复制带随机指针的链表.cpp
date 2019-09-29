@@ -32,7 +32,7 @@ void printRandLinkedList(Node* head) {
 	cout << endl;
 }
 
-//·½·¨Ò»
+//æ–¹æ³•ä¸€
 Node* copyRandomList(Node* head) {
 	unordered_map<Node*, Node*> map;
 	Node* cur = head;
@@ -41,7 +41,7 @@ Node* copyRandomList(Node* head) {
 		cur = cur->next;
 	}
 	cur = head;
-	while (cur) //ÔÙÖØĞÂ±éÀúÒ»±éÁ´±í
+	while (cur) //å†é‡æ–°éå†ä¸€éé“¾è¡¨
 	{
 		if(cur->next)
 			map[cur]->next = map[cur->next];
@@ -65,12 +65,12 @@ Node* copyRandomList1(Node *head) {
 	}
 
 	for (auto iter = map.begin(); iter!=map.end(); iter++)
-	{//±éÀúµÄÊÇmap
+	{//éå†çš„æ˜¯map
 		Node* origin = iter->first;
 		Node* copy = iter->second;
 		Node* next = origin->next;
 		Node* random = origin->random;
-		if(next)  //±ß½çÌõ¼ş¿¼ÂÇnextºÍrandomÎª¿ÕµÄÇé¿ö
+		if(next)  //è¾¹ç•Œæ¡ä»¶è€ƒè™‘nextå’Œrandomä¸ºç©ºçš„æƒ…å†µ
 			copy->next = map[next];
 		if(random)
 			copy->random = map[random];
@@ -78,7 +78,7 @@ Node* copyRandomList1(Node *head) {
 	return map[head];
 }
 
-//·½·¨¶ş
+//æ–¹æ³•äºŒ
 Node* copyRandomList2(Node *head) {
 	if (head == nullptr)
 		return nullptr;
@@ -102,7 +102,7 @@ Node* copyRandomList2(Node *head) {
 	}
 	return head;
 }
-Node* copyRandomList3(Node *head) {//leetcodeÔ­ÌâÖĞÒòÎªÊÇcopyËùÒÔ²»¿ÉÒÔĞŞ¸ÄÔ­À´Á´±íµÄÖ¸Õë¡£
+Node* copyRandomList3(Node *head) {//leetcodeåŸé¢˜ä¸­å› ä¸ºæ˜¯copyæ‰€ä»¥ä¸å¯ä»¥ä¿®æ”¹åŸæ¥é“¾è¡¨çš„æŒ‡é’ˆã€‚
 	if (head == nullptr)
 		return nullptr;
 	Node* cur = head;
