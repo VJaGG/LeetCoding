@@ -6,25 +6,25 @@
 
 	1 2 3 4 8 12 16 15 14 13 9 5 6 7 11 10
 
-	ºê¹Ûµ÷¶ÈÄÜÁ¦
+	å®è§‚è°ƒåº¦èƒ½åŠ›
 */
 #include<vector>
 #include<iostream>
 using namespace std;
 void printEdge1(vector<vector<int>> &matrix, vector<int> &result, int tR, int tC, int dR, int dC) {
-	if (tR == dR) { //Ö»ÓĞÒ»ĞĞµÄÇé¿ö
+	if (tR == dR) { //åªæœ‰ä¸€è¡Œçš„æƒ…å†µ
 		for (int i = tC; i <= dC; i++)
 		{
 			result.push_back(matrix[tR][i]);
 		}
-	}else if (tC == dC) { //Ö»ÓĞÒ»ÁĞµÄÇé¿ö
+	}else if (tC == dC) { //åªæœ‰ä¸€åˆ—çš„æƒ…å†µ
 		for (int i = tR; i <= dR; i++) {
 			result.push_back(matrix[i][tC]);
 		}
 	}
 	else
 	{
-		//Ò»°ãµÄÇé¿öÏÂ
+		//ä¸€èˆ¬çš„æƒ…å†µä¸‹
 		int curC = tC;
 		int curR = tR;
 		while (curC!=dC)
