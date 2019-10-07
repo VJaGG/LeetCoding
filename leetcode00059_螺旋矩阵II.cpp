@@ -34,7 +34,7 @@ void constrcutEdge(vector<vector<int>> &matrix,int &num,int tR,int tC,int dR,int
 
 }
 vector<vector<int>> generateMatrix(int n) {
-	vector<vector<int>> matrix(n,vector<int>(n)); //动态构建二维数组，初始值为0等价于vector<vector<int>> matrix(n, vector<int>(n, 0));
+	vector<vector<int>> matrix(n,vector<int>(n)); //鍔ㄦ�佹瀯寤轰簩缁存暟缁勶紝鍒濆鍊间负0绛変环浜巚ector<vector<int>> matrix(n, vector<int>(n, 0));
 	int tR = 0, tC = 0;
 	int dR = n - 1, dC = n - 1;
 	int num = 1;
