@@ -30,6 +30,26 @@ ListNode* input(int n){
     return head;
 }
 
+ListNode* reverse(ListNode* head, int L, int R){
+    ListNode* left = head;
+    while (L!=2){
+        left = left->next;
+        L--;
+    }
+    ListNode* pre = left->next;
+    ListNode* cur = pre->next;
+    while (R-L){
+        ListNode* succ = cur->next;
+        cur->next = pre;
+        pre = cur;
+        cur = succ;
+        R--;
+    }
+    left->next->next = cur;
+    left->next = pre;
+    return head;
+}
+
 void traverse(ListNode* head){
     while (head){
         printf("%d ", head->val);
@@ -41,5 +61,8 @@ int main(){
     int n;
     scanf("%d", &n);
     ListNode* head = input(n);
+    int l, r;
+    scanf("%d %d", &l, &r);
+    head = reverse(head, l, r);
     traverse(head);
 }
