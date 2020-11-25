@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "ostream": "cpp",
-        "cmath": "cpp",
-        "*.tcc": "cpp",
-        "iostream": "cpp",
-        "random": "cpp"
-    }
-}
