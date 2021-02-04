@@ -16,15 +16,15 @@ struct ListNode {
       ListNode(int x) : val(x), next(NULL) {}
 };
 
-// vector<int> reversePrint(ListNode* head) {
-//     vector<int> reverse;
-//     ListNode * ptr = head;
-//     while (ptr!=NULL){
-//         reverse.insert(reverse.begin() ,ptr->val);
-//         ptr = ptr->next;
-//     }
-//     return reverse;
-// }
+vector<int> reversePrint(ListNode* head) {
+    vector<int> reverse;
+    ListNode * ptr = head;
+    while (ptr!=NULL){
+        reverse.insert(reverse.begin() ,ptr->val);
+        ptr = ptr->next;
+    }
+    return reverse;
+}
 
 
 int main(){
