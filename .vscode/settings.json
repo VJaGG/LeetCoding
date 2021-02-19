@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "vector": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "xiosbase": "cpp",
+        "queue": "cpp",
+        "ios": "cpp",
+        "utility": "cpp"
     }
 }
