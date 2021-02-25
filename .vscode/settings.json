@@ -5,6 +5,7 @@
         "xiosbase": "cpp",
         "queue": "cpp",
         "ios": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "cmath": "cpp"
     }
 }
