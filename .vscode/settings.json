@@ -6,6 +6,8 @@
         "queue": "cpp",
         "ios": "cpp",
         "utility": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp"
     }
 }
