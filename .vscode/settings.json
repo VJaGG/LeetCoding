@@ -8,6 +8,10 @@
         "utility": "cpp",
         "cmath": "cpp",
         "xhash": "cpp",
-        "xtree": "cpp"
+        "xtree": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "xstring": "cpp",
+        "stack": "cpp"
     }
 }
