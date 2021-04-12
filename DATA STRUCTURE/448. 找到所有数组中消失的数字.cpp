@@ -6,7 +6,7 @@ using namespace std;
 vector<int> findDisappearedNumbers(vector<int>& nums) {
     vector<int> ans;
     for (auto num: nums){
-        int pos = abs(num) - 1;
+        int pos = abs(num) - 1;  //获得位置，数字存在
         if (nums[pos] > 0){
             nums[pos] = -nums[pos];
         }
