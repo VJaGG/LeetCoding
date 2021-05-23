@@ -11,4 +11,4 @@
 |0435|[无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/greedy/435.%20%E6%97%A0%E9%87%8D%E5%8F%A0%E5%8C%BA%E9%97%B4.cpp) | | | | |medium|
 |0605|[种花问题](https://leetcode-cn.com/problems/can-place-flowers/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/greedy/605.%20%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.cpp) | | | | |easy|
 |0452|[用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/greedy/452.%20%E7%94%A8%E6%9C%80%E5%B0%91%E6%95%B0%E9%87%8F%E7%9A%84%E7%AE%AD%E5%BC%95%E7%88%86%E6%B0%94%E7%90%83.cpp) | | | | |medium|
-
+|0763|[划分字母区间](https://leetcode-cn.com/problems/partition-labels/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/greedy/763.%20%E5%88%92%E5%88%86%E5%AD%97%E6%AF%8D%E5%8C%BA%E9%97%B4.cpp) | | | | |medium|
