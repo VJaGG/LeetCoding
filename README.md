@@ -9,4 +9,5 @@
 |0055|[跳跃游戏](https://leetcode-cn.com/problems/jump-game-ii/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/greedy/55.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.cpp) | | | | |medium|
 |0122|[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/greedy/122.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BAII.cpp) | | | | |easy|
 |0435|[无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/greedy/435.%20%E6%97%A0%E9%87%8D%E5%8F%A0%E5%8C%BA%E9%97%B4.cpp) | | | | |medium|
+|0605|[种花问题](https://leetcode-cn.com/problems/can-place-flowers/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/greedy/605.%20%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.cpp) | | | | |easy|
 
