@@ -15,3 +15,4 @@
 |0406|[根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/greedy/406.%20%E6%A0%B9%E6%8D%AE%E8%BA%AB%E9%AB%98%E9%87%8D%E5%BB%BA%E9%98%9F%E5%88%97.cpp) | | | | |medium|
 |0665|[非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/greedy/665.%20%E9%9D%9E%E9%80%92%E5%87%8F%E6%95%B0%E5%88%97.cpp) | | | | |easy|
 ## two-pointers
+|0167|[两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.cpp) | | | | |easy|
