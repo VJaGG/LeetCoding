@@ -18,4 +18,4 @@
 ## two-pointers  
 | # | title | c | c++ | python | go | js | java | difficulty |
 |---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-|0376|[摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/greedy/376.%20%E6%91%86%E5%8A%A8%E5%BA%8F%E5%88%97.cpp) | | | | |medium|
+|0167|[两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.cpp) | | | | |easy|
