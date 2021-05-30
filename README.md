@@ -23,3 +23,6 @@
 |0142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/142.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.cpp) | | | | |medium|
 |0076|[最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/76.%20%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.cpp) | | | | |hard|
 |0633|[平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/633.%20%E5%B9%B3%E6%96%B9%E6%95%B0%E4%B9%8B%E5%92%8C.cpp) | | | | |medium|
+|0125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.cpp) | | | | |easy|
+|0680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/680.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%20%E2%85%A1.cpp) | | | | |easy|
+
