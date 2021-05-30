@@ -22,3 +22,4 @@
 |0088|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/88.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.cpp) | | | | |easy|
 |0088|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/142.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.cpp) | | | | |medium|
 |0076|[最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/76.%20%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.cpp) | | | | |hard|
+|0633|[平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/633.%20%E5%B9%B3%E6%96%B9%E6%95%B0%E4%B9%8B%E5%92%8C.cpp) | | | | |hard|
