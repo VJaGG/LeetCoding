@@ -26,3 +26,8 @@
 |0125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.cpp) | | | | |easy|
 |0680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/680.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%20%E2%85%A1.cpp) | | | | |easy|
 
+## sort  
+| # | title | c | c++ | python | go | js | java | difficulty |
+|---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+|0000|[快速排序](----) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.cpp) | | | | |easy|
+
