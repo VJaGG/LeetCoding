@@ -29,5 +29,5 @@
 ## sort  
 | # | title | c | c++ | python | go | js | java | difficulty |
 |---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-|0000|[快速排序]|  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.cpp) | | | | |easy|
+|0000|[快速排序](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.cpp)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.cpp) | | | | |easy|
 
