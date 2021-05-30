@@ -4,7 +4,7 @@ using namespace std;
 
 bool judgeSquareSum(int c) {
     long low = 0;
-    long high = int(sqrt(c));
+    long high = int(sqrt(c));  // high 初始化为sqrt(c), 这样 low=0 这样 low*low + high*high = c
     while (low <=high){
         int sum = low * low + high * high; 
         if (sum == c){
