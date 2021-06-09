@@ -31,4 +31,4 @@
 |---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 |0000|[快速排序](https://github.com/VJaGG/leetcode/blob/master/sort/quickSort.cpp)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/sort/quickSort.cpp) | | | | |easy|
 |0000|[归并排序](https://github.com/VJaGG/leetcode/blob/master/sort/mergeSort.cpp)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/sort/mergeSort.cpp) | | | | |easy|
-
+|0000|[冒泡排序](https://github.com/VJaGG/leetcode/blob/master/sort/bubbleSort.cpp)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/sort/bubbleSort.cpp) | | | | |easy|
