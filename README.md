@@ -32,3 +32,6 @@
 |0000|[快速排序](https://github.com/VJaGG/leetcode/blob/master/sort/quickSort.cpp)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/sort/quickSort.cpp) | | | | |easy|
 |0000|[归并排序](https://github.com/VJaGG/leetcode/blob/master/sort/mergeSort.cpp)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/sort/mergeSort.cpp) | | | | |easy|
 |0000|[冒泡排序](https://github.com/VJaGG/leetcode/blob/master/sort/bubbleSort.cpp)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/sort/bubbleSort.cpp) | | | | |easy|
+|0215|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/sort/215.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.cpp) | | | | |medium|
+|0347|[前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/sort/347.%20%E5%89%8D%20K%20%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.cpp) | | | | |medium|
+|0451|[前 K 个高频元素](https://leetcode-cn.com/problems/sort-characters-by-frequency/)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/sort/451.%20%E6%A0%B9%E6%8D%AE%E5%AD%97%E7%AC%A6%E5%87%BA%E7%8E%B0%E9%A2%91%E7%8E%87%E6%8E%92%E5%BA%8F.cpp) | | | | |medium|
