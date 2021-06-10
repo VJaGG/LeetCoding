@@ -36,3 +36,10 @@
 |0347|[前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/sort/347.%20%E5%89%8D%20K%20%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.cpp) | | | | |medium|
 |0451|[根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/sort/451.%20%E6%A0%B9%E6%8D%AE%E5%AD%97%E7%AC%A6%E5%87%BA%E7%8E%B0%E9%A2%91%E7%8E%87%E6%8E%92%E5%BA%8F.cpp) | | | | |medium|
 |0075|[颜色分类](https://leetcode-cn.com/problems/sort-colors/)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/sort/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.cpp) | | | | |medium|
+
+## sort  
+| # | title | c | c++ | python | go | js | java | difficulty |
+|---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+|0695|[岛屿的最大面积(递归)](https://leetcode-cn.com/problems/max-area-of-island/)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/DFS/695.%20%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF%EF%BC%88%E9%80%92%E5%BD%92%EF%BC%89.cpp) | | | | |medium|
+|0695|[岛屿的最大面积(栈)](https://leetcode-cn.com/problems/max-area-of-island/)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/DFS/695.%20%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF%EF%BC%88%E6%A0%88%EF%BC%89.cpp) | | | | |medium|
+
