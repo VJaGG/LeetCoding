@@ -26,7 +26,7 @@
 |0125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.cpp) | | | | |easy|
 |0680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) |  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/680.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%20%E2%85%A1.cpp) | | | | |easy|
 
-## sort  
+## Sort  
 | # | title | c | c++ | python | go | js | java | difficulty |
 |---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 |0000|[快速排序](https://github.com/VJaGG/leetcode/blob/master/sort/quickSort.cpp)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/sort/quickSort.cpp) | | | | |easy|
@@ -37,7 +37,7 @@
 |0451|[根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/sort/451.%20%E6%A0%B9%E6%8D%AE%E5%AD%97%E7%AC%A6%E5%87%BA%E7%8E%B0%E9%A2%91%E7%8E%87%E6%8E%92%E5%BA%8F.cpp) | | | | |medium|
 |0075|[颜色分类](https://leetcode-cn.com/problems/sort-colors/)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/sort/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.cpp) | | | | |medium|
 
-## sort  
+## Search  
 | # | title | c | c++ | python | go | js | java | difficulty |
 |---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 |0695|[岛屿的最大面积(递归)](https://leetcode-cn.com/problems/max-area-of-island/)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/DFS/695.%20%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF%EF%BC%88%E9%80%92%E5%BD%92%EF%BC%89.cpp) | | | | |medium|
