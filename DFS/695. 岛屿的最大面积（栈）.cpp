@@ -45,7 +45,48 @@ int maxAreaOfIsland(vector<vector<int>>& grid){
     }
     return ans;
 }
- 
+// ===============================================
+// vector<int> direction{-1, 0, 1, 0, -1};
+// int dfs(vector<vector<int>>& grid, int x, int y){
+//     int ans = 0;
+//     int row = grid.size(), col = grid[0].size();
+//     stack<pair<int, int>> island;
+//     island.push({x, y});
+//     grid[x][y] = 0;
+//     ans++;
+//     while (!island.empty()){
+//         int r = island.top().first, c = island.top().second;
+//         island.pop();
+//         for (int k = 0; k < 4; k++){
+//             x = r + direction[k], y = c + direction[k+1];
+//             if (x >=0 && x < row && y >=0 && y < col && grid[x][y]==1){
+//                 island.push({x, y});
+//                 grid[x][y] = 0;
+//                 ans ++;
+//             }
+            
+//         }
+        
+//     }
+//     return ans;
+    
+// }
+
+// int maxAreaOfIsland(vector<vector<int>>& grid) {
+//     int row = grid.size(), col = grid[0].size();
+//     int ans = 0;
+//     for (int i = 0; i < row; i++){
+//         for (int j = 0; j < col; j++){
+//             if (grid[i][j]){
+//                 ans = max(ans, dfs(grid, i, j));
+//             }   
+//         }
+//     }
+//     return ans;
+// }
+
+
+
 int main(){
     vector<vector<int>> grid = {{0,0,1,0,0,0,0,1,0,0,0,0,0},
                                 {0,0,0,0,0,0,0,1,1,1,0,0,0},
