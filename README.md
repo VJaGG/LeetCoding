@@ -44,3 +44,9 @@
 |0695|[岛屿的最大面积(栈)](https://leetcode-cn.com/problems/max-area-of-island/)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/DFS/695.%20%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF%EF%BC%88%E6%A0%88%EF%BC%89.cpp) | | | | |medium|
 |0547|[省份数量](https://leetcode-cn.com/problems/number-of-provinces/)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/DFS/547.%20%E7%9C%81%E4%BB%BD%E6%95%B0%E9%87%8F.cpp) | | | | |medium|
 |0417|[太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/DFS/417.%20%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%B0%B4%E6%B5%81%E9%97%AE%E9%A2%98.cpp) | | | | |medium|
+
+
+## 分治 
+| # | title | c | c++ | python | go | js | java | difficulty |
+|---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+|0241|[为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/)|  | [c++](https://github.com/VJaGG/leetcode/blob/master/%E5%88%86%E6%B2%BB/241.%20%E4%B8%BA%E8%BF%90%E7%AE%97%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%AE%BE%E8%AE%A1%E4%BC%98%E5%85%88%E7%BA%A7.cpp) | | | | |medium|
